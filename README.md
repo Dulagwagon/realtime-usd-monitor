@@ -52,7 +52,7 @@ Script Python que consulta a cotação do dólar via API, registra historicament
 
 ## Exemplo de saída
     Linha registrada: ('2025-09-09 12:00:00', 5.41)
-    Captura do terminal:
+   Captura do terminal:
 <img width="397" height="114" alt="image" src="https://github.com/user-attachments/assets/d68367f7-96ad-4b55-aa1f-f1173aea1e7e" />
 
    
@@ -67,4 +67,5 @@ Script Python que consulta a cotação do dólar via API, registra historicament
 
 ## Autor
 Eduardo Pereira - [github.com/Dulagwagon](https://github.com/Dulagwagon/)
+
 

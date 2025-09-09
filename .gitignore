@@ -1,0 +1,22 @@
+# Arquivo de variáveis de ambiente
+.env
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtualenv
+.venv/
+venv/
+
+# Arquivos de log
+*.log
+
+# Configurações locais de IDEs (VSCode, PyCharm, etc.)
+.vscode/
+.idea/
+
+# CSVs gerados (se não quiser versionar histórico)
+*.csv

@@ -48,12 +48,14 @@ Script Python que consulta a cotação do dólar via API, registra historicament
 
 6. Execute o Script:
     ```bash
-    python cotacao.py
+   python cotacao.py
 
 ## Exemplo de saída
     Linha registrada: ('2025-09-09 12:00:00', 5.41)
-    <img width="417" height="151" alt="image" src="https://github.com/user-attachments/assets/62d6deaf-62e0-4b68-8b55-44ca1a01c437" />
-    <img width="448" height="197" alt="image" src="https://github.com/user-attachments/assets/a9ef4f71-8b29-4948-b449-c9348688d05c" />
+    Captura do terminal:
+<img width="397" height="114" alt="image" src="https://github.com/user-attachments/assets/d68367f7-96ad-4b55-aa1f-f1173aea1e7e" />
+
+   
 
 ## Possíveis Melhorias
 + Dashboard web para visualizar histórico;
@@ -65,3 +67,4 @@ Script Python que consulta a cotação do dólar via API, registra historicament
 
 ## Autor
 Eduardo Pereira - [github.com/Dulagwagon](https://github.com/Dulagwagon/)
+

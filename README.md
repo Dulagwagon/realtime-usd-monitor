@@ -1,8 +1,8 @@
 ## Cotação do Dólar em Tempo Real 🤑
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
-![GitHub last commit](https://img.shields.io/github/last-commit/Dulagwagon/cotacao_moedas)
-![Issues](https://img.shields.io/github/issues/Dulagwagon/cotacao_moedas)
+![GitHub last commit](https://img.shields.io/github/last-commit/Dulagwagon/realtime-usd-monitor)
+![Issues](https://img.shields.io/github/issues/Dulagwagon/realtime-usd-monitor)
 
 Script Python que consulta a cotação do dólar via API, registra historicamente em CSV e permite atualização automática em intervalos definidos pelo usuário.
 
@@ -67,6 +67,7 @@ Script Python que consulta a cotação do dólar via API, registra historicament
 
 ## Autor
 Eduardo Pereira - [github.com/Dulagwagon](https://github.com/Dulagwagon/)
+
 
 
 
